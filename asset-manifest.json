@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bee41f2.css",
-    "main.js": "/static/js/main.110c6b2a.js",
+    "main.js": "/static/js/main.6d6137b2.js",
     "static/js/787.1297335f.chunk.js": "/static/js/787.1297335f.chunk.js",
     "static/media/Madhurima_Poddar_Resume.pdf": "/static/media/Madhurima_Poddar_Resume.a7643f9a5d59fcfcad4e.pdf",
     "static/media/pfp.png": "/static/media/pfp.d6a2b72491600e4fa375.png",
@@ -11,11 +11,11 @@
     "static/media/background_5.png": "/static/media/background_5.94eb5978a674a332174b.png",
     "index.html": "/index.html",
     "main.2bee41f2.css.map": "/static/css/main.2bee41f2.css.map",
-    "main.110c6b2a.js.map": "/static/js/main.110c6b2a.js.map",
+    "main.6d6137b2.js.map": "/static/js/main.6d6137b2.js.map",
     "787.1297335f.chunk.js.map": "/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bee41f2.css",
-    "static/js/main.110c6b2a.js"
+    "static/js/main.6d6137b2.js"
   ]
 }
