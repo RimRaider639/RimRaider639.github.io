@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.2bee41f2.css",
-    "main.js": "/static/js/main.f8343bfc.js",
+    "main.js": "/static/js/main.263aaacc.js",
     "static/js/787.1297335f.chunk.js": "/static/js/787.1297335f.chunk.js",
-    "static/media/Madhurima_Poddar_Resume.pdf": "/static/media/Madhurima_Poddar_Resume.18300a60e3e5803d76f2.pdf",
+    "static/media/Madhurima_Poddar_Resume.pdf": "/static/media/Madhurima_Poddar_Resume.30d4cfb26bd770e6117b.pdf",
     "static/media/pfp.png": "/static/media/pfp.d6a2b72491600e4fa375.png",
     "static/media/pillar.png": "/static/media/pillar.350c3f41a503f9f4a43f.png",
     "static/media/logo.gif": "/static/media/logo.a141a030b490f2b788a0.gif",
@@ -11,11 +11,11 @@
     "static/media/background_5.png": "/static/media/background_5.94eb5978a674a332174b.png",
     "index.html": "/index.html",
     "main.2bee41f2.css.map": "/static/css/main.2bee41f2.css.map",
-    "main.f8343bfc.js.map": "/static/js/main.f8343bfc.js.map",
+    "main.263aaacc.js.map": "/static/js/main.263aaacc.js.map",
     "787.1297335f.chunk.js.map": "/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bee41f2.css",
-    "static/js/main.f8343bfc.js"
+    "static/js/main.263aaacc.js"
   ]
 }
